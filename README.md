@@ -20,8 +20,10 @@ log.critical('critical message')
 ```
 
 **output example**
-> [2020-20-20 20:20:20,200] [MyApp] INFO: program is starting..
-> [2020-20-20 20:20:20,200] [MyApp] ERROR: an external error has occured! exiting program...
+```
+[2020-20-20 20:20:20,200] [MyApp] INFO: program is starting...
+[2020-20-20 20:20:20,200] [MyApp] ERROR: an external error has occured! exiting program...
+```
 
 --- 
 
